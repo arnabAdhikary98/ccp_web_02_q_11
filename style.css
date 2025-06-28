@@ -1,0 +1,24 @@
+/* Page background */
+body {
+    background-color: lightgray;
+}
+
+/* Headings */
+h1 {
+    color: navy;
+}
+
+h2 {
+    color: darkred;
+}
+
+/* Paragraph styles */
+.blue-text {
+    color: blue;
+    font-size: 20px;
+}
+
+.green-text {
+    color: green;
+    font-size: 18px;
+}
